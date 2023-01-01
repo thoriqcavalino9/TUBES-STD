@@ -11,3 +11,11 @@ Parents ->  Jenis Ekspedisi, Jenis Barang
 Child ->  Nama pengirim, Alamat tujuan, Berat barang
 
 Relation -> Harga barang/transaksi 
+
+
+
+Function : 
+- Memasukkan/Insert data pengiriman baru 
+- Show all data pengiriman 
+- Menghapus data pengiriman 
+- Mencari alamat pengiriman 
