@@ -10,7 +10,7 @@ Parents ->  Jenis Ekspedisi, Jenis Barang
 
 Child ->  Nama pengirim, Alamat tujuan, Berat barang
 
-Relation -> Harga barang/transaksi 
+Relation -> list child pada elemen parent
 
 
 
