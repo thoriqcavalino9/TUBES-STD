@@ -1,0 +1,37 @@
+# depslib dependency file v1.0
+1672856186 source:d:\gerr\random\tubesstd\child.cpp
+	"child.h"
+
+1672853142 source:d:\gerr\random\tubesstd\main.cpp
+	<iostream>
+	"child.h"
+	"parent.h"
+	"relasi.h"
+	"menu.h"
+
+1672855419 d:\gerr\random\tubesstd\child.h
+	<iostream>
+
+1672843713 d:\gerr\random\tubesstd\parent.h
+	<iostream>
+
+1672856814 d:\gerr\random\tubesstd\relasi.h
+	<iostream>
+	"child.h"
+	"parent.h"
+
+1672853376 source:d:\gerr\random\tubesstd\relasi.cpp
+	"relasi.h"
+
+1672848400 source:d:\gerr\random\tubesstd\parent.cpp
+	"parent.h"
+
+1672855260 d:\gerr\random\tubesstd\menu.h
+	<iostream>
+	"parent.h"
+	"child.h"
+	"relasi.h"
+
+1672856366 source:d:\gerr\random\tubesstd\menu.cpp
+	"menu.h"
+
